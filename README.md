@@ -1,5 +1,5 @@
 
-#Image Caption Generator - Flickr Dataset#
+Image Caption Generator - Flickr Dataset
 Overview
 This project generates captions for 8k images from the Flickr dataset, using a CNN-LSTM multimodal approach. Features from both images and captions are concatenated for predicting the next word. The model utilizes the VGG16 network for images and achieves a BLEU-1 Score of 0.544 and BLEU-2 Score of 0.319.
 
